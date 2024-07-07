@@ -1,0 +1,26 @@
+body{
+  text-align: center;
+  font-family:"Arial", "Meiryo", sans-serif ;
+}
+
+.midashi{
+  font-size: large;
+  text-shadow: #FC0 1px 0 10px;
+  letter-spacing: 1.2em;
+  border-bottom: 3px solid rgb(115, 115, 114);
+  font-size: 2em;
+  font-family: "Josefin Sans";
+
+}
+
+.pink {
+  color: rgb(252, 192, 203);
+}
+
+.blue{
+  color: skyblue;
+}
+
+#basic{
+  font-weight: bold;
+}
