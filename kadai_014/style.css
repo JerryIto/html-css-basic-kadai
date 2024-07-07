@@ -1,6 +1,7 @@
 body{
   text-align: center;
   font-family:"Arial", "Meiryo", sans-serif ;
+  font-size: 20px;
 }
 
 .midashi{
@@ -21,6 +22,6 @@ body{
   color: skyblue;
 }
 
-#basic{
+#basic, #basic > div {
   font-weight: bold;
 }
